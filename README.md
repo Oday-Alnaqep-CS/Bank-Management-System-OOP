@@ -1,4 +1,4 @@
-# <p align="center">🏦 Enterprise-Grade Bank Management System</p>
+# <p align="center">🏦 Advanced Bank Management System (OOP Architecture)</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-ISO%20Standard-blue?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Architecture-Modular_OOP-gold?style=for-the-badge" />
@@ -17,18 +17,37 @@ This system is a demonstration of **High-Level Software Engineering**. It is bui
 
 ---
 
-## 🧠 System Design Highlights
-* **Object-Oriented Excellence:** Full implementation of Encapsulation, Abstraction, and Inheritance to reduce code complexity.
-* **Modular Design:** Separation of concerns (SoC) allowing each module to be tested and updated independently.
-* **Scalable Structure:** Built with a foundation ready for SQL migration and API integration.
+## 📊 Architecture Diagram
+The system follows a uni-directional flow to ensure data integrity and separation of concerns:
+
+<p align="center">
+  <b>User Interface (UI) ➡️ Business Logic ➡️ Data Persistence</b>
+</p>
+
+---
+
+## 🧰 Technologies Used
+- **Language:** C++ (Advanced OOP: Encapsulation, Abstraction, Inheritance).
+- **Environment:** Visual Studio 2026.
+- **UI:** Custom Console-based Graphical Interface (High Contrast/Noir).
+- **Storage:** File Handling (Text-based Persistence).
+- **Framework:** Custom-built Logic & Validation Library.
+
+---
+
+## 🧪 Example Use Cases
+- **Client Management:** Create, update, and manage secure client accounts.
+- **Financial Operations:** Real-time Deposit, Withdraw, and Fund Transfer.
+- **Security Control:** Manage user permissions and administrative roles.
+- **Currency Intelligence:** Convert and manage multi-currency exchange rates.
 
 ---
 
 ## 🔐 Advanced Security & Integrity
-* **Role-Based Access Control (RBAC):** Granular permission matrix ensuring users only access authorized modules.
-* **Session Integrity:** Secure handling of user sessions during system runtime.
-* **Input Sanitization:** Robust validation mechanisms to prevent system crashes and exploits.
-* **Audit Logging:** Comprehensive logging of all transactions and system activities for auditing.
+* **Role-Based Access Control (RBAC):** Granular permission matrix for authorized module access.
+* **Session Integrity:** Secure handling of user sessions during runtime.
+* **Input Sanitization:** Military-grade validation to prevent system exploits.
+* **Audit Logging:** Full traceability of every transaction and system log.
 
 ---
 
@@ -40,12 +59,8 @@ This system is a demonstration of **High-Level Software Engineering**. It is bui
       <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-06.jpg" width="100%" /><br/><p align="center"><b>🏢 Executive Dashboard</b></p></td>
     </tr>
     <tr>
-      <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-20.jpg" width="100%" /><br/><p align="center"><b>👥 Client Management</b></p></td>
+      <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-20.jpg" width="100%" /><br/><p align="center"><b>👥 Client Records</b></p></td>
       <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-26.jpg" width="100%" /><br/><p align="center"><b>💸 Transaction Engine</b></p></td>
-    </tr>
-    <tr>
-      <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-43.jpg" width="100%" /><br/><p align="center"><b>📜 Transfer Auditing</b></p></td>
-      <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-49.jpg" width="100%" /><br/><p align="center"><b>💱 Currency Management</b></p></td>
     </tr>
   </table>
 </div>
@@ -53,10 +68,10 @@ This system is a demonstration of **High-Level Software Engineering**. It is bui
 ---
 
 ## ⚙️ How to Run
-1. **Clone/Download:** Download the repository to your local machine.
-2. **Open Project:** Load the `.sln` or `.vcxproj` file in **Visual Studio 2026**.
-3. **Configure Data:** Ensure the `.txt` files in the `/Data` folder are present.
-4. **Build & Run:** Build the solution and execute the application.
+1. **Clone/Download:** Get the repository files.
+2. **Launch:** Open the `.sln` file in **Visual Studio**.
+3. **Build:** Compile the solution to generate the executable.
+4. **Execute:** Launch the system and login with default credentials.
 
 ---
 
