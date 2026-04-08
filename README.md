@@ -52,6 +52,7 @@ The system follows a uni-directional flow to ensure data integrity and separatio
 ---
 
 ## 📸 System Visual Walkthrough
+
 <div align="center">
   <table border="0">
     <tr>
@@ -63,6 +64,29 @@ The system follows a uni-directional flow to ensure data integrity and separatio
       <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-26.jpg" width="100%" /><br/><p align="center"><b>💸 Transaction Engine</b></p></td>
     </tr>
   </table>
+
+  <details>
+    <summary><b>📂 Click here to view more system operations (8+ Images)</b></summary>
+    <br>
+    <table border="0">
+      <tr>
+        <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-40.jpg" width="100%" /><br/><p align="center"><b>📜 Transfer Logs</b></p></td>
+        <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-43.jpg" width="100%" /><br/><p align="center"><b>🔍 Transaction Search</b></p></td>
+      </tr>
+      <tr>
+        <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-49.jpg" width="100%" /><br/><p align="center"><b>💱 Currency Exchange</b></p></td>
+        <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-53.jpg" width="100%" /><br/><p align="center"><b>🔄 Rate Management</b></p></td>
+      </tr>
+      <tr>
+        <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-59.jpg" width="100%" /><br/><p align="center"><b>🛡️ Permission Control</b></p></td>
+        <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-54-07.jpg" width="100%" /><br/><p align="center"><b>👤 User Management</b></p></td>
+      </tr>
+      <tr>
+        <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-54-48.jpg" width="100%" /><br/><p align="center"><b>📋 Full Client List</b></p></td>
+        <td width="50%"><img src="Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-54-53.jpg" width="100%" /><br/><p align="center"><b>⚙️ System Settings</b></p></td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 ---
